@@ -22,7 +22,6 @@ const Collection = ({
   collectionType,
   urlParamName,
 }: CollectionProps) => {
-  data = []
   return (
     <>
       {data.length > 0 ? (
